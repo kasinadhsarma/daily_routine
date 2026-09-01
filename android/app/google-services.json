@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540841214580",
+    "project_id": "dailyroutine-7548e",
+    "storage_bucket": "dailyroutine-7548e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540841214580:android:073ade95fe88203aef4721",
+        "android_client_info": {
+          "package_name": "com.kasinadhsarma.dailyroutine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKSy_xb3qpO-wmLb8nhSfB9nvHf1AKbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
